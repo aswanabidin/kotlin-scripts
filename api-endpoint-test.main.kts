@@ -16,7 +16,7 @@ import kotlin.system.exitProcess
 
 /**
  * Created by Muhammad Aswan Abidin on 03/07/21.
- * Copyright (c) 2020 Aswan Abidin Repository. All rights reserved.
+ * Copyright (c) 2021 Aswan Abidin Repository. All rights reserved.
  **/
 
 /* Example Base URL
