@@ -14,6 +14,11 @@ import javax.crypto.Mac
 import javax.crypto.spec.SecretKeySpec
 import kotlin.system.exitProcess
 
+/**
+ * Created by Muhammad Aswan Abidin on 03/07/21.
+ * Copyright (c) 2020 Aswan Abidin Repository. All rights reserved.
+ **/
+
 /* Example Base URL
  * https://api.github.com
  * https://api.spotify.com
